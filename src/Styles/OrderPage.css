@@ -1,0 +1,154 @@
+.order-heading {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.order-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.o-box1 {
+    border: 1px solid rgba(128, 128, 128, 0.11);
+    box-shadow: 1px 1px 1px gray;
+    height: 160px;
+    width: 300px;
+    border-radius: 25px 25px 5px 5px;
+    margin-left: 90px;
+    margin-top: 40px;
+    background-color: #d9d9d969;
+    display: flex;
+}
+
+.items-img {
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.item-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.item-title1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 13px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.item-desc {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 11px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.item-desc1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.amounts {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+.adds {
+    margin-left: 140px;
+    position: relative;
+    bottom: 23px;
+    text-decoration: none;
+    border: 1px solid rgb(99, 99, 99);
+    background-color: #586B51;
+    padding: 4px;
+    color: white;
+    border-radius: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+}
+
+@media only screen and (max-width: 700px) {
+    .order-heading {
+        margin-left: 20px;
+    }
+
+    .o-box1 {
+        margin-left: 25px;
+        height: 180px;
+        width: 340px;
+    }
+    .items-img {
+        height: 80px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .item-title {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 16px;
+        margin-top: 35px;
+        margin-left: 20px;
+    }
+    .item-title1 {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 12px;
+        margin-top: 25px;
+        margin-left: 20px;
+    }
+    .item-desc {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        font-size: 11px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .item-desc1 {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        font-size: 11px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .amounts{
+        font-size: 15px;
+        margin-left: 50px;
+    }
+    .adds{
+        margin-left: 140px;
+        font-size: 13px;
+    }
+}
