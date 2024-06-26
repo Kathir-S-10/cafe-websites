@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cafe-websites/static/css/main.bee50803.css",
+    "main.js": "/cafe-websites/static/js/main.acaf654f.js",
+    "static/js/453.eacd2753.chunk.js": "/cafe-websites/static/js/453.eacd2753.chunk.js",
+    "static/media/img003.jpg": "/cafe-websites/static/media/img003.5613244ba9f1681e0398.jpg",
+    "static/media/img001.jpg": "/cafe-websites/static/media/img001.5540157fbec5d3e0f4ba.jpg",
+    "static/media/img002.jpg": "/cafe-websites/static/media/img002.da3fd7f1c5875d127e1c.jpg",
+    "static/media/img007.jpg": "/cafe-websites/static/media/img007.378c3607d131528f66a8.jpg",
+    "static/media/img005.jpg": "/cafe-websites/static/media/img005.7377792e8f393e87405e.jpg",
+    "static/media/img004.jpg": "/cafe-websites/static/media/img004.b025c4c38a366d14d547.jpg",
+    "static/media/image (10).png": "/cafe-websites/static/media/image (10).acc8174c05c4697fd436.png",
+    "static/media/belgium-choco.webp": "/cafe-websites/static/media/belgium-choco.a85f88e8eef03f8dbc40.webp",
+    "static/media/iced-belgium.webp": "/cafe-websites/static/media/iced-belgium.a4b8c4f23ca824c76e2e.webp",
+    "static/media/belgium-choco-latte.png": "/cafe-websites/static/media/belgium-choco-latte.add8296601911adf03ed.png",
+    "static/media/java-chip.png": "/cafe-websites/static/media/java-chip.508d2cefdb76fca3b2f4.png",
+    "static/media/cold coffee.png": "/cafe-websites/static/media/cold coffee.304399032b7566a875c3.png",
+    "static/media/choco-cookie.png": "/cafe-websites/static/media/choco-cookie.309ab57a3dd0aaaabe22.png",
+    "static/media/capuccino.png": "/cafe-websites/static/media/capuccino.20ed015a2b9ded0e531b.png",
+    "static/media/Belgium-chocolate.png": "/cafe-websites/static/media/Belgium-chocolate.d7c110f195ab2f392ae2.png",
+    "static/media/cold-americano.png": "/cafe-websites/static/media/cold-americano.5d2ed8367f0bea5278ba.png",
+    "static/media/bel-choco.webp": "/cafe-websites/static/media/bel-choco.23d6877785d1b42dbe5b.webp",
+    "static/media/instagram.svg": "/cafe-websites/static/media/instagram.25ba09863c142b7e6118f72c9592d071.svg",
+    "index.html": "/cafe-websites/index.html",
+    "static/media/twitter.svg": "/cafe-websites/static/media/twitter.29d766e5e4f896107e8d1e5a1ae1c33d.svg",
+    "static/media/facebook.svg": "/cafe-websites/static/media/facebook.00263cbfd9577a4934c9cd6ed98bdc6e.svg",
+    "main.bee50803.css.map": "/cafe-websites/static/css/main.bee50803.css.map",
+    "main.acaf654f.js.map": "/cafe-websites/static/js/main.acaf654f.js.map",
+    "453.eacd2753.chunk.js.map": "/cafe-websites/static/js/453.eacd2753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee50803.css",
+    "static/js/main.acaf654f.js"
+  ]
+}
